@@ -22,7 +22,7 @@ work, but haven't been tested):
 
 ## Installation
 - Clone the repository 
--Run ` pip install virtualenv`to install virtualenv system-wide (if not installed before)
+- Run ` pip install virtualenv`to install virtualenv system-wide (if not installed before)
 - Make a virtual environment in directory by running ```python -m venv myvenv```
 - Activate the virtual environment by:
   - ```myvenv\Scripts\activate``` on Windows
