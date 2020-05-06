@@ -37,7 +37,7 @@ work, but haven't been tested):
 
 | Name              | Github username                                   | E-Mail                                                                |
 | ----------------- | ------------------------------------------------- | --------------------------------------------------------------------- |
-| Viplav Anand    | [viplav153](https://github.com/viplav153)| [viplav15315@gmail.com](mailto:viplav153@gmail.com)       |
+| Viplav Anand    | [viplav153](https://github.com/viplav153)| [viplav153@gmail.com](mailto:viplav153@gmail.com)       |
 | Subh Nagar   | [shubhnagar](https://github.com/shubhnagar)      | [nagarshubh2000@gmail.com](mailto:nagarshubh2000@gmail.com) 
 
 ## Future Features
