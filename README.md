@@ -4,9 +4,9 @@
 The AIM is to provide a a mobile app and web app wherein students can easily exchange,buy or sell books.
 We presume a lot of students struggle to find the required books according to their college syllabus. It’s hard to gather notes from different online sites and libraries because of their high costs.
 So, we have created a mobile app and web app wherein students can easily exchange books in mutual understanding with each other.
-It works in association with our [Book-exchanger-app](https://github.com/dscbvppune/Book-Exchanger-App
+It works in association with our [Book-exchanger-app](https://github.com/dscbvppune/Book-Exchanger-App)
 
-Video Demo: https://www.youtube.com/watch?v=A-RdgJG8Mz4
+Video Demo : https://www.youtube.com/watch?v=A-RdgJG8Mz4
 
 
 ## Requirements
@@ -43,9 +43,6 @@ work, but haven't been tested):
 
 ## Future Features
 * Give recommendation for user based on their interests of the books by using Machine Learning 
-
-## Link to book exchanger mobile app
-- https://github.com/dscbvppune/Book-Exchanger-App
 
 
 
