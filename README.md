@@ -1,7 +1,7 @@
 # Book-Exchanger-Web
 
 
-The AIM is to provide a a mobile app and web app wherein students can easily exchange books in mutual understanding with each other.
+The AIM is to provide a a mobile app and web app wherein students can easily exchange,buy or sell books.
 We presume a lot of students struggle to find the required books according to their college syllabus. It’s hard to gather notes from different online sites and libraries because of their high costs.
 So, we have created a mobile app and web app wherein students can easily exchange books in mutual understanding with each other.
 
