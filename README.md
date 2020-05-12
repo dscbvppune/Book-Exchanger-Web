@@ -38,7 +38,6 @@ work, but haven't been tested):
 
 | Name              | Github username                                   | E-Mail                                                                |
 | ----------------- | ------------------------------------------------- | --------------------------------------------------------------------- |
-| Vansh Bhasin   | [vanshbhasin157](https://github.com/vanshbhasin157)      | [vanshbhasin157@gmail.com](mailto:vanshbhasin157@gmail.com) 
 | Viplav Anand    | [viplav153](https://github.com/viplav153)| [viplav153@gmail.com](mailto:viplav153@gmail.com)       |
 | Subh Nagar   | [shubhnagar](https://github.com/shubhnagar)      | [nagarshubh2000@gmail.com](mailto:nagarshubh2000@gmail.com) 
 
